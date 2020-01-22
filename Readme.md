@@ -1,5 +1,5 @@
 
-#Tasks
+# Tasks
 - App with login, signup with details, image capture
 - Display image, image with green filter.
 - Biopsy region highlighting
