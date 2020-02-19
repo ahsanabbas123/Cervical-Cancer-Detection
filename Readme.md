@@ -4,7 +4,7 @@
 - To be completed:
 
 - [ ] Review papers, ODT Device, Kaggle results
-- [ ] App with login, signup with details, image capture
+- [ ] App with authentication, login, signup with details, details form, image capture.
 - [ ] Display image, image with green filter.
 - [ ] Connect with firebase for database
 <br>
