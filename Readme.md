@@ -12,6 +12,8 @@
 
 - Post Data:
 
+
+- [ ] Add green filter functionality to app
 - [ ] Deep learning model deployment through TFLite later
 - [ ] Anti-glare algorithm later
 - [ ] Biopsy region highlighting
